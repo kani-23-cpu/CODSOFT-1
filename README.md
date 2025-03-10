@@ -1,5 +1,4 @@
-# CODSOFT-1
-TITANIC SURVIVAL PREDICTION
+# TITANIC SURVIVAL PREDICTION
 
 Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
 
